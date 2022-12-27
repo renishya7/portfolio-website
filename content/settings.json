@@ -5,15 +5,13 @@
     "title": "Gatsby Starter for Portfolio Minimal",
     "titleTemplate": "%s · Portfolio Minimal",
     "description": "A Gatsby Starter Project to easily get started with Portfolio Minimal theme.",
-    "author": "Konstantin Münster",
-    "avatar": "../content/images/gatsby.png",
-    "bio": "This biography will be used in the footer area of an article and can contain some more details about the author.",
+    "author": "Renishya Jayan",
+    "avatar": "../content/images/profile_image.png",
+    "bio": "A writer with different hats - technical writer, UX writer, content strategist, and so on. All these different hats come down to one thing — a friendly guide who guides readers with a human-centric approach.",
     "social": {
-      "behance": "https://behance.com",
-      "github": "https://github.com/konstantinmuenster",
-      "medium": "https://konstantinmuenster.medium.com",
-      "linkedin": "https://www.linkedin.com/in/konstantin-muenster/",
-      "mail": "mailto:mail@konstantin.digital"
+      "github": "https://github.com/renishya7",
+      "linkedin": "https://linkedin.com/in/renishya-jayan",
+      "mail": "mailto:renishya@gmail.com"
     }
   },
   "siteConfiguration": {
@@ -22,17 +20,15 @@
       "header": [
         { "label": "About", "url": "/#about" },
         { "label": "Blog", "url": "/blog" },
-        { "label": "Features", "url": "/#features" },
-        { "label": "Github", "url": "/#github" }
+        { "label": "Projects", "url": "/#projects" }
       ],
       "ctaButton": {
-        "openNewTab": true,
+        "openNewTab": false,
         "label": "Resume",
-        "url": "/resume.pdf"
+        "url": ""
       },
       "footer": [
-        { "label": "Privacy", "url": "/privacy" },
-        { "label": "Imprint", "url": "/imprint" }
+        { "label": "", "url": "" }
       ]
     },
     "featureToggles": {
