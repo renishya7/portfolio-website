@@ -23,19 +23,19 @@
       ]
     },
     {
-      "visible": false,
-      "category": "🧰 EXTENDABLE LAYOUT",
-      "title": "Add more sections!",
-      "description": "The starter includes predefined sections as well as a template for new, custom sections. Moreover, you can add new projects to this section without additional coding. Photo by Kelly Sikkema on Unsplash.",
-      "tags": ["Custom Sections", "Easy-2-Use"],
+      "visible": true,
+      "category": "Style guide",
+      "title":  "Style guide creation and rework",
+      "description": "This project involves reviving the current product documentation style guide and creating a new one for the developer documentation. The challenge with the existing product documentation style guide is that it does not give clear guidelines to empower writers and reviewers. With recent acquisitions, documentation for acquired product lines was merged into the support portal, adding to the complexity of creating a unified style guide. With the completion of this project, writers can write without fear and editors do not have to edit without mercy. ",
+      "tags": ["Consistent writing", "Writing guidelines"],
       "image": {
-        "src": "../../images/kelly-sikkema-Hl3LUdyKRic-unsplash.jpg",
+        "src": "../../images/style-guide.jpg",
         "alt": "Extendable Layout"
       },
       "links": [
         {
-          "type": "github",
-          "url": "https://github.com/konstantinmuenster/gatsby-starter-portfolio-minimal-theme"
+          "type": "",
+          "url": ""
         }
       ]
     }
