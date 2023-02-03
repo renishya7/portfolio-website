@@ -3,7 +3,7 @@ title: "Why I built a portfolio website"
 description: ""
 date: "2022-12-12"
 banner:
-   src: "../../../images/rod-long-ldsCiYoExvk-unsplash.jpg"
+   src: "../../images/rod-long-ldsCiYoExvk-unsplash.jpg"
    alt: ""
    caption: 'Photo by <a href="https://unsplash.com/@rodlong?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Rod Long</a> on <a href="https://unsplash.com/photos/ldsCiYoExvk?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
   '

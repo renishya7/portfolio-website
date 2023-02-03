@@ -22,11 +22,7 @@
         { "label": "Blog", "url": "/blog" },
         { "label": "Projects", "url": "/#projects" }
       ],
-      "ctaButton": {
-        "openNewTab": false,
-        "label": "Resume",
-        "url": ""
-      },
+    
       "footer": [
         { "label": "", "url": "" }
       ]
