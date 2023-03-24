@@ -3,12 +3,12 @@ title: "Create a portfolio website"
 description: "Learn how to create your portfolio website using Gatsby."
 date: "2022-11-15"
 banner:
-  src: "../../images/portfolio.png"
+  src: "../../images/portfolio.png" 
   alt: ""
   caption: ''
 categories:
-  - "Portfolio"
   - "Tutorial"
+  - "Portfolio"
 keywords:
   - "Example"
   - "Gatsby"
