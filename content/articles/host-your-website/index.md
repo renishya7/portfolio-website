@@ -56,4 +56,4 @@ For this purpose, I have used the following:
 5. Under **Basic Configuration**, provide your site name.
 6. Click **Next** and then **Build Site**.<br/>
    You are redirected to your site page, where you can see the status of your build.
-7. Click your site link to to visit your live site.
+7. Click your site link to to visit your live site. 
