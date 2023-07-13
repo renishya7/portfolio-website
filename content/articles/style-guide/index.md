@@ -61,7 +61,8 @@ Go through other style guides to understand the structure and what is already ou
 ### Define your writing style
 ![This is the alt tag.](../../images/pottery.jpg)
 
-Your style guide should outline the voice and tone of your organization, and your content should reflect them.<br/>**Tip**: Formulate the voice and tone of your organization if it is not already done.
+Your style guide should outline the voice and tone of your organization, and your content should reflect them.<br/>
+            **Tip**: Formulate the voice and tone of your organization if it is not already done.
 
 ### Include content formatting guidelines
 
@@ -74,5 +75,7 @@ Provide examples with Dos and Don'ts to make the difference clear for your users
 
 Your style guide should be an ever-evolving one. Review and update regularly to ensure that it remains relevant.
 
-In conclusion, a style guide is essential to scale and maintain good quality documentation.
+
+
+If you think about it, a style guide is nothing but documentation of writing style decisions so that you can refer to it when needed. Whether you are a lone writer or a part of a team, investing time in developing a style guide is what can help you maintain quality and scale your documentation.
 
