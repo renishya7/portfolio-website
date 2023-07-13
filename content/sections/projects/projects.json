@@ -34,7 +34,7 @@
       },
       "links": [
         {
-          "type": "github",
+          "type": "external",
           "url": "../style-guide"
         }
       ]
