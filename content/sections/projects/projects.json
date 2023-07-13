@@ -26,7 +26,7 @@
       "visible": true,
       "category": "Style guide",
       "title":  "Style guide creation and rework",
-      "description": "This project involves reviving the current product documentation style guide and creating a new one for the developer documentation. The challenge with the existing product documentation style guide is that it does not give clear guidelines to empower writers and reviewers. With recent product acquisitions and acquired product lines in the support portal,  unifying the styles of different product lines has become a challenge. With the completion of this project, writers can write without fear, and editors do not have to edit without mercy. [Learn more](https://renishya.com/style-guide)",
+      "description": "This project involves reviving the current product documentation style guide and creating a new one for the developer documentation. The challenge with the existing product documentation style guide is that it does not give clear guidelines to empower writers and reviewers. With recent product acquisitions and acquired product lines in the support portal,  unifying the styles of different product lines has become a challenge. With the completion of this project, writers can write without fear, and editors do not have to edit without mercy.",
       "tags": ["Consistent writing", "Writing guidelines"],
       "image": {
         "src": "../../images/style-guide.jpg",
@@ -34,8 +34,8 @@
       },
       "links": [
         {
-          "type": "blog",
-          "url": "../../articles/style-guide"
+          "type": "github",
+          "url": "../style-guide"
         }
       ]
     }
