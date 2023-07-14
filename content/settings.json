@@ -3,7 +3,7 @@
     "language": "en",
     "siteUrl": "https://gatsby-starter-portfolio-minimal-theme.netlify.app/",
     "title": "Renishya's Portfolio",
-    "titleTemplate": "%s · Portfolio Minimal",
+    "titleTemplate": "%s · Portfolio",
     "description": "Technical Writer | Content Strategist | UX Writer",
     "author": "Renishya Jayan",
     "avatar": "../content/images/profile_image.png",
